@@ -1,0 +1,4 @@
+# ConfiguracaoDeSoftware
+
+Complexidade ciclomática:
+
