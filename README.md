@@ -9,4 +9,4 @@ O calculo da complexidade ciclomática pode ser feito das seguintes formas:
  - Usando fluxograma;
  - Com análise estática do código, usando uma ferramenta que automatize essa tarefa.
 
-No caso dessa atividade a complexidade ciclomática foi analisada por uma ferramenta, o site http://www.lizard.ws/ análizou o código do projeto.
+No caso dessa atividade a complexidade ciclomática foi analisada por uma ferramenta, o site http://www.lizard.ws/ foi utilizado para análizar o código do projeto.
